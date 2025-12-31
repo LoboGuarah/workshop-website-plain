@@ -5,25 +5,11 @@
 
 }
 
-p {
+.center {
 
-    color: pink;
-    font-family: sans-serif;
-
-}
-
-.blue { 
-
-    color:blue;
-
-}
-
-.box {
-
-    background:grey;
-    padding-top: 16px;
-    padding-right: 34px;
-    padding-bottom: 25px;
-    padding-left: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%;
 
 }
